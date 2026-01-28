@@ -7,11 +7,16 @@ El script simula un flujo de caja que permite seleccionar productos de un catál
 
 ## Funcionalidades
 El sistema cumple con los siguientes requerimientos:
+
 **Catálogo de Productos:** Muestra los ítems disponibles y sus precios.
+
 **Cálculo de Totales:** Suma el valor de los productos seleccionados en un arreglo.
+
 **Sistema de Descuentos:** Aplica lógica condicional anidada:
-    * 10% de descuento para compras mayores a $50.
-    * 20% de descuento para compras mayores a $100.
+
+    10% de descuento para compras mayores a $50.
+    20% de descuento para compras mayores a $100.
+    
 **Procesamiento de Pedidos:** Genera el ticket final con el monto a pagar y confirmación.
 
 ## Requisitos
